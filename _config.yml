@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "iachounta"
 title_separator          : "-"
 name                     : &name "Irene-Angelica Chounta"
-description              : &description "Junior Professor, University of Duisburg-Essen"
+description              : &description "Assistant Professor, University of Duisburg-Essen"
 url                      : https://iachounta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iachounta/iachounta.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Irene-Angelica Chounta"
   avatar           : "profile.jpg"
-  bio              : "Junior Professor, University of Duisburg-Essen"
+  bio              : "Assistant Professor"
   location         : "Germany"
-  employer         :
+  employer         :"University of Duisburg-Essen"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=vR9b1AwAAAAJ&hl=en&oi=sra"
   email            :
